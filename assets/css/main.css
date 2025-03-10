@@ -1958,3 +1958,43 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+
+
+
+
+
+
+.about-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers everything inside */
+  text-align: center;
+}
+
+.personal-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers the personal info */
+}
+
+.signature-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers the signature */
+  margin-top: 20px;
+}
+
+.signature-img {
+  display: block;
+  margin: auto; /* Centers the image */
+  max-width: 500px; /* Increase size if needed */
+}
+
+.print-name {
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 18px; /* Keep this as a standard bold name */
+}
+
+
