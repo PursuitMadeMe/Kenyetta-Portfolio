@@ -1779,6 +1779,30 @@ section,
   padding: 0;
 }
 
+.portfolio-links {
+  margin-top: 10px;
+}
+
+.portfolio-links .btn-primary {
+  margin-right: 10px;
+}
+
+.github-link {
+  margin-top: 5px;
+  font-size: 14px;
+}
+
+.github-link a {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+}
+.github-link a:hover {
+  text-decoration: underline;
+}
+
+
+
 /*--------------------------------------------------------------
 # Service Details Section
 --------------------------------------------------------------*/
